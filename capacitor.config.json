@@ -1,0 +1,6 @@
+{
+  "appId": "uk.co.stsava.nfcmypos",
+  "appName": "NFC myPOS",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
