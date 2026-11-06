@@ -1,0 +1,17 @@
+{
+  "name": "nfc-mypos-payment-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Custom NFC myPOS-style POS demo app",
+  "scripts": {
+    "build:android": "npm run cap:sync && cd android && gradle assembleDebug",
+    "cap:sync": "cap sync"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
+}
