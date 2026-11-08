@@ -2,7 +2,7 @@
   "name": "nfc-mypos-payment-system",
   "version": "1.0.0",
   "private": true,
-  "description": "Custom NFC myPOS-style POS demo app",
+  "description": "St Sava Church myPOS register demo app",
   "scripts": {
     "build:android": "npm run cap:sync && cd android && gradle assembleDebug",
     "cap:sync": "cap sync"
